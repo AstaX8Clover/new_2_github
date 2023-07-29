@@ -32,3 +32,18 @@ public class Strings1 {
 //and ek ending index lega and beech ka part return krdega
 //int to str and str to int i e parsing
 //string are immutable
+//as string are immutable so everytime we do a change it inc time and takes more space so we use string builder as an alternative
+//StringBuilder sb = new StringBuilder('Tony');
+//now we can change any index by 
+//sb.setCharAt("index","character");
+//this replace the prev character at index by new one
+//insert character at any index by
+//sb.inser('index','char');
+//to delete any char or substring
+//sb.delete('starting index','ending index');//
+//ending index is exclusive
+//append end me jod dena
+//agr sb = 'h'; hai and hello chahie
+//sb.append('ello');
+
+
